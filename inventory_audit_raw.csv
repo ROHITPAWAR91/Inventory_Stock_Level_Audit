@@ -1,0 +1,156 @@
+SKU,Product,Category,Unit_Cost,Annual_Demand,Lead_Time_Days,Reorder_Point_Set,System_Qty,Physical_Count
+SKU-1150,Tools item 150,Tools,29.93,269,30,32,35,35
+SKU-1022,Home & Kitchen item 022,Home & Kitchen,52.46,406,7,7,17,16
+SKU-1049,Stationery item 049,Stationery,6.54,1770,7,38,1357,1486
+SKU-1040,Home & Kitchen item 040,Home & Kitchen,19.83,308,21,16,51,48
+SKU-1141,Electronics item 141,Electronics,47.06,343,21,26,14,14
+SKU-1124,Apparel item 124,Apparel,82.42,134,5,2,3,3
+SKU-1002,Home & Kitchen item 002,Home & Kitchen,57.42,216,21,14,19,20
+SKU-1099,Tools item 099,Tools,21.62,5076,30,425,280,280
+SKU-1043,Tools item 043,Tools,39.38,213,10,5,15,15
+SKU-1073,Tools item 073,Tools,28.07,131,7,3,5,5
+SKU-1041,Grocery item 041,Grocery,10.38,65,10,2,68,68
+SKU-1135,Electronics item 135,Electronics,146.81,1228,14,120,1037,1037
+SKU-1139,Stationery item 139,Stationery,11.67,161,14,10,148,148
+SKU-1115,Home & Kitchen item 115,Home & Kitchen,49.66,597,14,28,67,42
+SKU-1112,Home & Kitchen item 112,Home & Kitchen,17.71,90,10,3,10,10
+SKU-1085,Stationery item 085,Stationery,11.21,296,10,12,283,283
+SKU-1062,Grocery item 062,Grocery,7.91,404,30,63,72,72
+SKU-1064,Grocery item 064,Grocery,6.95,136,5,2,6,6
+SKU-1137,Apparel item 137,Apparel,16.24,888,21,83,97,90
+SKU-1094,Apparel item 094,Apparel,48.98,214,10,7,25,25
+sku-1013 ,Stationery item 013,Stationery,,775,30,70,116,116
+SKU-1099,Tools item 099,Tools,21.62,5076,30,425,280,280
+SKU-1024,Tools item 024,Tools,53.97,433,10,13,3,3
+SKU-1128,Stationery item 128,Stationery,10.53,324,7,5,27,24
+SKU-1075,Electronics item 075,Electronics,66.22,518,21,28,84,84
+SKU-1136,Stationery item 136,Stationery,4.19,905,14,28,70,70
+sku-1026 ,Tools item 026,Tools,13.27,298,30,34,-1,0
+SKU-1027,Stationery item 027,Stationery,1.43,101,14,5,3,2
+SKU-1125,Electronics item 125,Electronics,140.78,159,14,6,16,16
+SKU-1080,Tools item 080,Tools,74.67,311,5,3,6,6
+SKU-1105,Stationery item 105,Stationery,2.82,375,7,17,0,0
+SKU-1072,Tools item 072,Tools,41.16,269,5,5,21,21
+sku-1070 ,Stationery item 070,Stationery,10.1,100,21,4,9,9
+SKU-1058,Home & Kitchen item 058,Home & Kitchen,20.96,274,14,11,0,0
+SKU-1082,Stationery item 082,Stationery,11.07,90,21,5,11,11
+SKU-1011,Stationery item 011,Stationery,2.45,1418,10,40,1354,1263
+SKU-1051,Grocery item 051,Grocery,13.35,729,7,10,15,15
+SKU-1054,Home & Kitchen item 054,Home & Kitchen,51.88,1226,21,69,139,117
+SKU-1037,Grocery item 037,Grocery,3.7,902,5,13,688,640
+SKU-1047,Tools item 047,Tools,43.14,555,5,15,49,49
+SKU-1005,Apparel item 005,Apparel,31.31,467,10,15,9,10
+SKU-1044,Stationery item 044,Stationery,5.2,966,7,13,35,35
+SKU-1055,Tools item 055,Tools,74.36,109,30,14,69,69
+SKU-1120,Apparel item 120,Apparel,38.2,703,21,38,1,0
+SKU-1067,Grocery item 067,Grocery,5.8,189,7,2,143,143
+SKU-1018,Tools item 018,Tools,45.91,54,7,1,1,0
+SKU-1118,Tools item 118,Tools,20.79,174,14,6,6,7
+SKU-1132,Stationery item 132,Stationery,7.86,1328,30,107,115,98
+SKU-1083,Apparel item 083,Apparel,,1986,30,141,184,184
+SKU-1017,Electronics item 017,Electronics,66.2,171,30,13,0,0
+SKU-1146,Apparel item 146,Apparel,20.47,140,14,6,8,8
+SKU-1071,Tools item 071,Tools,32.16,137,21,15,0,0
+SKU-1050,Apparel item 050,Apparel,53.1,542,21,42,65,65
+SKU-1021,Tools item 021,Tools,74.59,112,7,3,12,13
+SKU-1076,Tools item 076,Tools,63.74,401,5,6,24,24
+SKU-1036,Stationery item 036,Stationery,1.9,422,10,14,31,26
+SKU-1007,Electronics item 007,Electronics,,952,21,81,148,148
+SKU-1016,Home & Kitchen item 016,Home & Kitchen,55.45,814,30,51,448,448
+SKU-1029,Apparel item 029,Apparel,86.89,1780,21,153,0,0
+SKU-1116,Tools item 116,Tools,32.62,447,10,14,3,3
+SKU-1057,Tools item 057,Tools,76.54,159,7,5,16,16
+SKU-1121,Tools item 121,Tools,33.33,1717,7,34,0,0
+SKU-1102,Stationery item 102,Stationery,6.16,582,30,24,29,29
+SKU-1103,Electronics item 103,Electronics,112.84,519,30,31,626,519
+SKU-1061,Stationery item 061,Stationery,7.06,176,21,15,14,14
+SKU-1053,Grocery item 053,Grocery,2.86,185,30,18,186,186
+SKU-1023,Apparel item 023,Apparel,77.53,565,30,28,126,90
+SKU-1078,Apparel item 078,Apparel,26.33,442,5,9,8,8
+SKU-1038,Tools item 038,Tools,23.1,113,7,3,11,10
+SKU-1134,Grocery item 134,Grocery,2.74,390,21,21,40,40
+SKU-1015,Electronics item 015,Electronics,126.18,3807,21,232,518,518
+SKU-1065,Tools item 065,Tools,69.13,773,30,103,72,72
+SKU-1089,Tools item 089,Tools,31.9,387,10,14,280,280
+sku-1098 ,Stationery item 098,Stationery,9.27,192,5,2,6,6
+SKU-1131,Stationery item 131,Stationery,5.79,255,10,12,2,2
+SKU-1132,Stationery item 132,Stationery,7.86,1328,30,107,115,98
+SKU-1096,Tools item 096,Tools,41.72,95,30,10,0,0
+SKU-1088,Stationery item 088,Stationery,1.39,798,14,46,525,477
+SKU-1148,Home & Kitchen item 148,Home & Kitchen,53.34,386,21,22,42,42
+SKU-1077,Home & Kitchen item 077,Home & Kitchen,35.36,442,10,10,25,4
+SKU-1033,Home & Kitchen item 033,Home & Kitchen,18.01,575,30,71,65,65
+SKU-1093,Apparel item 093,Apparel,69.62,792,14,38,79,75
+SKU-1014,Stationery item 014,Stationery,1.28,110,21,5,6,6
+SKU-1025,Tools item 025,Tools,61.1,1533,21,85,1581,1581
+SKU-1060,Home & Kitchen item 060,Home & Kitchen,42.89,565,5,10,0,0
+SKU-1046,Tools item 046,Tools,50.25,488,30,41,35,38
+sku-1035 ,Apparel item 035,Apparel,76.78,394,14,13,37,38
+SKU-1133,Grocery item 133,Grocery,8.12,1328,10,34,0,0
+SKU-1097,Apparel item 097,Apparel,18.39,288,7,10,25,25
+SKU-1048,Apparel item 048,Apparel,89.64,522,7,10,31,32
+SKU-1123,Stationery item 123,Stationery,4.5,247,5,6,-1,0
+SKU-1010,Electronics item 010,Electronics,59.99,1268,10,35,65,28
+SKU-1140,Stationery item 140,Stationery,6.71,1150,14,45,40,40
+SKU-1091,Tools item 091,Tools,24.33,161,10,6,18,18
+SKU-1015,Electronics item 015,Electronics,126.18,3807,21,232,518,518
+SKU-1095,Electronics item 095,Electronics,125.87,1869,14,62,33,33
+SKU-1017,Electronics item 017,Electronics,66.2,171,30,13,0,0
+SKU-1117,Apparel item 117,Apparel,61.61,212,7,12,15,16
+SKU-1086,Home & Kitchen item 086,Home & Kitchen,56.79,73,5,1,0,0
+SKU-1090,Home & Kitchen item 090,Home & Kitchen,53.91,391,10,19,34,28
+SKU-1034,Stationery item 034,Stationery,3.78,94,10,3,3,3
+SKU-1030,Electronics item 030,Electronics,142.12,934,5,16,94,94
+SKU-1127,Stationery item 127,Stationery,5.98,138,21,13,0,0
+SKU-1079,Electronics item 079,Electronics,167.83,700,7,18,44,44
+SKU-1092,Apparel item 092,Apparel,35.83,250,30,25,30,27
+SKU-1004,Electronics item 004,Electronics,,334,5,6,-35,35
+SKU-1056,Apparel item 056,Apparel,87.3,184,10,6,20,20
+SKU-1143,Apparel item 143,Apparel,68.06,208,14,8,19,19
+SKU-1068,Home & Kitchen item 068,Home & Kitchen,44.05,292,7,14,14,14
+SKU-1108,Tools item 108,Tools,61.52,376,10,11,34,34
+SKU-1012,Stationery item 012,Stationery,7.08,573,10,16,51,51
+SKU-1063,Tools item 063,Tools,67.32,593,14,32,59,59
+SKU-1142,Electronics item 142,Electronics,76.87,577,10,35,45,45
+SKU-1110,Electronics item 110,Electronics,59.36,206,5,7,0,0
+SKU-1109,Electronics item 109,Electronics,155.42,528,30,81,626,510
+SKU-1101,Grocery item 101,Grocery,3.32,53,14,2,30,30
+SKU-1149,Stationery item 149,Stationery,2.93,309,14,9,40,40
+SKU-1147,Tools item 147,Tools,39.98,2336,10,70,102,102
+SKU-1019,Apparel item 019,Apparel,56.72,879,5,15,717,717
+sku-1020 ,Apparel item 020,Apparel,52.65,343,21,17,37,37
+SKU-1084,Grocery item 084,Grocery,13.07,450,10,18,19,18
+SKU-1129,Apparel item 129,Apparel,51.2,1650,21,108,1273,1219
+SKU-1039,Stationery item 039,Stationery,10.08,589,10,20,0,0
+SKU-1069,Stationery item 069,Stationery,8.54,84,7,3,5,6
+SKU-1003,Grocery item 003,Grocery,14.94,255,14,7,35,36
+SKU-1032,Home & Kitchen item 032,Home & Kitchen,47.18,605,14,20,450,450
+SKU-1076,Tools item 076,Tools,63.74,401,5,6,24,24
+SKU-1052,Electronics item 052,Electronics,195.34,817,21,117,142,130
+sku-1106 ,Apparel item 106,Apparel,39.81,1512,21,96,0,0
+SKU-1111,Stationery item 111,Stationery,1.74,854,30,38,145,145
+SKU-1001,Stationery item 001,Stationery,10.87,306,14,14,23,23
+SKU-1059,Tools item 059,Tools,77.08,211,10,5,17,17
+SKU-1006,Grocery item 006,Grocery,4.01,360,21,24,307,307
+SKU-1104,Home & Kitchen item 104,Home & Kitchen,56.45,436,10,13,7,7
+SKU-1130,Stationery item 130,Stationery,2.06,239,10,8,9,9
+SKU-1042,Stationery item 042,Stationery,8.05,313,30,27,52,52
+SKU-1107,Apparel item 107,Apparel,31.96,301,10,9,36,36
+SKU-1138,Grocery item 138,Grocery,3.27,760,5,15,823,823
+SKU-1122,Stationery item 122,Stationery,8.79,344,7,8,40,40
+sku-1126 ,Stationery item 126,Stationery,6.71,455,14,14,315,267
+SKU-1087,Apparel item 087,Apparel,85.26,590,7,5,21,21
+SKU-1031,Tools item 031,Tools,71.78,170,21,6,22,22
+SKU-1066,Home & Kitchen item 066,Home & Kitchen,43.93,135,21,7,17,17
+SKU-1045,Stationery item 045,Stationery,2.63,171,30,14,132,106
+SKU-1028,Stationery item 028,Stationery,9.93,255,14,13,15,15
+SKU-1081,Home & Kitchen item 081,Home & Kitchen,21.26,1107,21,68,682,682
+SKU-1114,Stationery item 114,Stationery,5.93,360,5,9,1,1
+SKU-1144,Stationery item 144,Stationery,2.04,322,5,5,0,0
+SKU-1008,Electronics item 008,Electronics,105.08,718,5,15,9,9
+SKU-1113,Home & Kitchen item 113,Home & Kitchen,36.08,189,10,3,24,24
+SKU-1009,Home & Kitchen item 009,Home & Kitchen,45.51,494,14,18,29,29
+SKU-1074,Grocery item 074,Grocery,5.98,378,10,15,40,40
+SKU-1145,Stationery item 145,Stationery,1.17,529,7,9,6,6
+SKU-1119,Apparel item 119,Apparel,34.35,49,30,2,61,54
+SKU-1100,Tools item 100,Tools,28.9,1355,21,107,200,166
